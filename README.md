@@ -4,7 +4,7 @@ A conversational AI assistant for managing Gmail through natural language. Built
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://email-chat-agent-gjeq9yqncyucxcnsguct9t.streamlit.app/)
 
-**🚀 Live Demo:** [https://email-chat-agent-gjeq9yqncyucxcnsguct9t.streamlit.app/](https://email-chat-agent-gjeq9yqncyucxcnsguct9t.streamlit.app/)
+**🚀 Live Demo:** [https://email-chat-agent-5f3tazhlph2tqftkhxanci.streamlit.app/](https://email-chat-agent-5f3tazhlph2tqftkhxanci.streamlit.app/)
 
 ## Features
 
